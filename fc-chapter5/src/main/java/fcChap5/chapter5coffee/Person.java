@@ -1,6 +1,7 @@
 package fcChap5.chapter5coffee;
 
 public class Person {
+
     String name;
     int money;
 

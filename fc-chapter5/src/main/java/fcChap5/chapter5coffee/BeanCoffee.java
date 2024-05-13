@@ -1,6 +1,7 @@
 package fcChap5.chapter5coffee;
 
 public class BeanCoffee {
+
     int money;
 
     public String brewing(int money) {
@@ -13,4 +14,5 @@ public class BeanCoffee {
             return null;
         }
     }
+
 }
