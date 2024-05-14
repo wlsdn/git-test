@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b720a26c-de2e-42d2-a3ad-cac5949f112d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5/MyDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5/MyDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5coffee/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5coffee/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5coffee/StarCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5coffee/StarCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap5/staticsinglepractice/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap5/staticsinglepractice/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap5/staticsinglepractice/CardCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap5/staticsinglepractice/CardCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap6/ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap6/copy/ArrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap6/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap6/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap6/BookArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap6/BookArrayTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gRUtYFytiaZvO87ktnfp0KnID0" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.fc-chapter5 [:ArrayListTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:BookArrayTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:CardCompanyTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:CoffeeTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:MyDateTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:ObjectCopy.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:ObjectCopy2.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:StudentTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:TwoDimension.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fcChap6" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b720a26c-de2e-42d2-a3ad-cac5949f112d" name="Changes" comment="" />
+      <created>1715660104258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715660104258</updated>
+    </task>
+    <servers />
+  </component>
+</project>

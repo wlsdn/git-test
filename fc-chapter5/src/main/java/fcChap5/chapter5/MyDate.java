@@ -102,5 +102,4 @@ public class MyDate {
             return "유효하지 않는 날짜입니다.";
         }
     }
-
 }

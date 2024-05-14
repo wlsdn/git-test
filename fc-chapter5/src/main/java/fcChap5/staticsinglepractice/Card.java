@@ -14,9 +14,7 @@ public class Card {
         return cardNumber;
     }
 
-    public void setCartNumber(int cardNumber) {
+    public void setCardNumber(int cardNumber) {
         this.cardNumber = cardNumber;
     }
-
-
 }

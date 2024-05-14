@@ -1,4 +1,4 @@
-package fcChap6;
+package fcChap6.copy;
 
 public class ArrayCopy {
     public static void main(String[] args) {

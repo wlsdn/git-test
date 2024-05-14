@@ -1,4 +1,4 @@
-package fcChap6;
+package fcChap6.practice.book;
 
 public class Book {
 
@@ -6,7 +6,8 @@ public class Book {
     private String author;
 
     public Book() {}
-    public Book(String title, String author) {
+
+    public Book(String title, String autor) {
         this.title = title;
         this.author = author;
     }
@@ -25,9 +26,5 @@ public class Book {
 
     public void setAuthor(String author) {
         this.author = author;
-    }
-
-    public void showBookInfo() {
-        System.out.println(title + ", " + author);
     }
 }

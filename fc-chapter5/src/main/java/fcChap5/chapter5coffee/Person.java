@@ -25,4 +25,5 @@ public class Person {
             System.out.println(name + " 님이 " + money + "원 으로 " + message + "남은 돈은 " + this.money + "원 입니다.");
         }
     }
+
 }

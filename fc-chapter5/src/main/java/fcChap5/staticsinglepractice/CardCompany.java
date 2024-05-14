@@ -3,7 +3,6 @@ package fcChap5.staticsinglepractice;
 public class CardCompany {
 
     private static CardCompany instance = new CardCompany();
-
     private CardCompany() {}
     public static CardCompany getInstance() {
         if(instance == null) {
@@ -11,9 +10,10 @@ public class CardCompany {
         }
         return instance;
     }
-    public Card createCard() {
 
+    public Card createCard() {
         Card card = new Card();
         return card;
     }
+
 }
