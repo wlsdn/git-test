@@ -3,6 +3,7 @@ package fcChap6.practice.book;
 import java.util.ArrayList;
 
 public class Student {
+
     int studentID;
     String studentName;
     ArrayList<Book> bookList;
@@ -26,4 +27,5 @@ public class Student {
         }
         System.out.println("입니다.");
     }
+
 }

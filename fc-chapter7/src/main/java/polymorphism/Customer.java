@@ -1,4 +1,4 @@
-package inheritance.customer;
+package polymorphism;
 
 public class Customer {
     /*  멤버 변수               설명
@@ -22,8 +22,8 @@ public class Customer {
 
 
     /*
-    public Customer() { // 기본 생성자에선 뭘 할거냐면 grade가 처음에 정해진다.
-        customerGrade = "SILVER"; // 생성자에서 주로 하는일이 멤버변수 초기화
+    public Customer() {
+        customerGrade = "SILVER";
         bonusRatio = 0.01;
 
         System.out.println("Customer() 생성자 호출");
@@ -38,7 +38,6 @@ public class Customer {
         System.out.println("Customer(int, String) 생성자 호출");
     }
 
-    // 가격 계산하는 함수를 만들어 볼 것이다.
     public int calcPrice(int price) {
         bonusPoint += price * bonusRatio;
         return price;
@@ -71,5 +70,4 @@ public class Customer {
     public void setCustomerGrade(String customerGrade) {
         this.customerGrade = customerGrade;
     }
-
 }

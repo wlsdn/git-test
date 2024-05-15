@@ -1,4 +1,4 @@
-package inheritance.customer;
+package polymorphism;
 
 public class VIPCustomer extends Customer {
     /*  단골 고객으로 혜택이 더 다양해짐
@@ -6,13 +6,12 @@ public class VIPCustomer extends Customer {
      *  보너스 포인트 5% 적립
      *  담당 상담원 배정
      */
+
     double salesRatio;
     int agentID;
 
     /*
     public VIPCustomer() {
-        // customerGrade = "VIP"; private이여서 외부에선 상속받은 관계여도 접근할 수 없다.
-        // 상속받은 관계에서 사용하고 싶다. 그럼 Customer클래스에 private을 protected로 바꾼다.
         customerGrade = "VIP";
         bonusRatio = 0.5;
         salesRatio = 0.1;
@@ -40,5 +39,4 @@ public class VIPCustomer extends Customer {
         // int로 바꿔줘야 하기 때문이다.
         return price - (int)(price * salesRatio);
     }
-
 }
