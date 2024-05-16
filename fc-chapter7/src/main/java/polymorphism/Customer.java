@@ -20,7 +20,6 @@ public class Customer {
     int bonusPoint;
     double bonusRatio;
 
-
     /*
     public Customer() {
         customerGrade = "SILVER";

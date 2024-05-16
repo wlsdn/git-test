@@ -4,22 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be51a207-c57a-4068-a32e-a1f831e8fe0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/polymorphism/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/polymorphism/VIPCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="a241b240-1a1d-4661-a14d-1daacf3a069e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap6/practice/book/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap6/practice/book/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5coffee/CoffeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap5/chapter5coffee/CoffeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fcChap5/staticex/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap5/staticex/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fcChap6/practice/book/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap6/practice/book/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fcChap6/practice/subject/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap6/practice/subject/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fcChap6/practice/subject/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap6/practice/subject/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fcChap6/practice/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fcChap6/practice/subject/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter7/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/inheritance/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/inheritance/customer/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/inheritance/customer/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/inheritance/customer/CustomerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/inheritance/customer/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/inheritance/customer/VIPCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/polymorphism/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/polymorphism/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/polymorphism/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/polymorphism/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/polymorphism/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/polymorphism/VIPCustomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +34,16 @@
   "customColor": "",
   "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2gV7RvJ5zrLjXJtJHRiCpygjURD" />
+  <component name="ProjectId" id="2gX8V9RMmIz7S1j2letZtgmNUiU" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.fc-chapter5 [:CardCompanyTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:CoffeeTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:MyDateTest.main()].executor": "Run",
+    "Gradle.fc-chapter5 [:StudentIDTest.main()].executor": "Run",
     "Gradle.fc-chapter5 [:StudentTest.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,11 +54,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="be51a207-c57a-4068-a32e-a1f831e8fe0b" name="Changes" comment="" />
-      <created>1715770888740</created>
+      <changelist id="a241b240-1a1d-4661-a14d-1daacf3a069e" name="Changes" comment="" />
+      <created>1715832583552</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715770888740</updated>
+      <updated>1715832583552</updated>
     </task>
     <servers />
   </component>

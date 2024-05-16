@@ -29,8 +29,7 @@ public class StudentTest {
         studentKim.addSubject("영어", 80);
 
         studentLee.showStudentInfo();
-        System.out.println("==============================");
+        System.out.println("=======================");
         studentKim.showStudentInfo();
-
     }
 }

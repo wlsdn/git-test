@@ -2,27 +2,27 @@ package fcChap6.practice.subject;
 
 public class Subject {
 
-    private String subjectName;
-    private int subjectScore;
+    private String subName;
+    private int subScore;
 
-    public Subject(String subjectName, int subjectScore) {
-        this.subjectName = subjectName;
-        this.subjectScore = subjectScore;
+    public Subject(String subName, int subScore) {
+        this.subName = subName;
+        this.subScore = subScore;
     }
 
-    public String getSubjectName() {
-        return subjectName;
+    public String getSubName() {
+        return subName;
     }
 
-    public void setSubjectName(String subjectName) {
-        this.subjectName = subjectName;
+    public void setSubName(String subName) {
+        this.subName = subName;
     }
 
-    public int getSubjectScore() {
-        return subjectScore;
+    public int getSubScore() {
+        return subScore;
     }
 
-    public void setSubjectScore(int subjectScore) {
-        this.subjectScore = subjectScore;
+    public void setSubScore(int subScore) {
+        this.subScore = subScore;
     }
 }

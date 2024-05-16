@@ -26,6 +26,7 @@ public class VIPCustomer extends Customer {
         bonusRatio = 0.5;
         salesRatio = 0.1;
 
+
         System.out.println("VIPCustomer(int, String) 생성자 호출");
     }
 

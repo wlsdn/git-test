@@ -16,12 +16,12 @@ public class CoffeeTest {
          * 5. test
          */
 
-
         Person kim = new Person("Kim", 10000);
         Person lee = new Person("Lee", 20000);
         StarCoffee starCoffee = new StarCoffee();
         BeanCoffee beanCoffee = new BeanCoffee();
         kim.buyStarCoffee(starCoffee, 4000);
         lee.buyBeanCoffee(beanCoffee, 5000);
+
     }
 }
