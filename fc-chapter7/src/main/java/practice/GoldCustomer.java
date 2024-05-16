@@ -4,7 +4,6 @@ public class GoldCustomer extends Customer {
 
     double salesRatio;
 
-
     public GoldCustomer(int customerID, String customerName) {
         super(customerID, customerName);
 

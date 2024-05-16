@@ -5,16 +5,32 @@ import java.util.ArrayList;
 public class CustomerTest {
     public static void main(String[] args) {
 
+        ArrayList<Customer> customerList = new ArrayList<>();
+
         Customer customerLee = new Customer(10010, "이순신");
         Customer customerShin = new Customer(10020, "신사임당");
-        Customer customerHong = new Customer(10030, "홍길동");
-        Customer customerYul = new Customer(10040, "이율곡");
-        Customer customerKim = new Customer(10050, "김유신");
+        Customer customerHong = new GoldCustomer(10030, "홍길동");
+        Customer customerYul = new GoldCustomer(10040, "이율곡");
+        Customer customerKim = new VIPCustomer(10050, "김유신", 12345);
 
-        System.out.println(customerLee.showCustomerInfo());
-        System.out.println(customerShin.showCustomerInfo());
-        System.out.println(customerHong.showCustomerInfo());
-        System.out.println(customerYul.showCustomerInfo());
-        System.out.println(customerKim.showCustomerInfo());
+        customerList.add(customerLee);
+        customerList.add(customerShin);
+        customerList.add(customerHong);
+        customerList.add(customerYul);
+        customerList.add(customerKim);
+
+        System.out.println("========= 고객 정보 출력 =========");
+
+        for(Customer cus : customerList) {
+            System.out.println(cus.showCustomerInfo());
+        }
+
+        System.out.println("======= 할인율과 보인트 포인트 계싼 =======");
+        int price = 10000;
+        for(Customer cus2 : customerList) {
+            int cost = cus2.calcPrice(price);
+            System.out.println(cus2.getCustomerName() + "님이 " + cost + "원 지불하셨습니다.");
+            System.out.println(cus2.getCustomerName() + "님의 현재 보너스 포인트는 " + cus2.bonusPoint + "점 입니다.");
+        }
     }
 }

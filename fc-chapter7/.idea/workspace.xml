@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="563028d6-b332-4617-9577-92bc3c17e409" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../fc-chapter5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5coffee/CoffeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5coffee/CoffeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/staticex/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/staticex/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/book/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/book/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/subject/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/subject/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/subject/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/subject/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/subject/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/CustomerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/VIPCustomer.java" afterDir="false" />
-    </list>
+    <list default="true" id="563028d6-b332-4617-9577-92bc3c17e409" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
