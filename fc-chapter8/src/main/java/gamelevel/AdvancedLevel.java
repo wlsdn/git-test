@@ -1,6 +1,7 @@
 package gamelevel;
 
 public class AdvancedLevel extends PlayerLevel {
+
     @Override
     public void run() {
         System.out.println("빨리 달립니다.");
@@ -17,4 +18,5 @@ public class AdvancedLevel extends PlayerLevel {
     public void showLevelMessage() {
         System.out.println("======= 중급자 레벨입니다. =======");
     }
+
 }

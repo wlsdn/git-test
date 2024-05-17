@@ -1,6 +1,7 @@
 package practice;
 
 public class VIPCustomer extends Customer {
+
     double salesRatio;
     int agentID;
 
@@ -21,4 +22,6 @@ public class VIPCustomer extends Customer {
     public String showCustomerInfo() {
         return super.showCustomerInfo() + "담당 상담원 번호는 " + agentID + "입니다.";
     }
+
+
 }

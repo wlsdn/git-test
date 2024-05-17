@@ -20,17 +20,21 @@ public class CustomerTest {
         customerList.add(customerKim);
 
         System.out.println("========= 고객 정보 출력 =========");
+        System.out.println();
 
         for(Customer cus : customerList) {
             System.out.println(cus.showCustomerInfo());
         }
+        System.out.println();
 
-        System.out.println("======= 할인율과 보인트 포인트 계싼 =======");
+        System.out.println("======= 할인율과 보인트 포인트 계산 =======");
+        System.out.println();
         int price = 10000;
         for(Customer cus2 : customerList) {
             int cost = cus2.calcPrice(price);
             System.out.println(cus2.getCustomerName() + "님이 " + cost + "원 지불하셨습니다.");
             System.out.println(cus2.getCustomerName() + "님의 현재 보너스 포인트는 " + cus2.bonusPoint + "점 입니다.");
         }
+
     }
 }
