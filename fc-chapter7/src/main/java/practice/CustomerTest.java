@@ -36,5 +36,6 @@ public class CustomerTest {
             System.out.println(cus2.getCustomerName() + "님의 현재 보너스 포인트는 " + cus2.bonusPoint + "점 입니다.");
         }
 
+
     }
 }

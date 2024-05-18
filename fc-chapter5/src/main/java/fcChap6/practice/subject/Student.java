@@ -40,4 +40,5 @@ public class Student {
         }
         System.out.println(studentName + "학생의 총점은 " + total + "점 입니다.");
     }
+
 }

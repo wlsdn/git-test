@@ -10,7 +10,6 @@ public class MyDate {
      *  - public boolean isValid() 메서드를 만들어 날짜가 유효한지 확인한다.
      *  - MyDateTest 클래스에서 생성한 MyDate 날짜가 유효한지 확인한다.
      */
-
     private int day;
     private int month;
     private int year;

@@ -12,8 +12,8 @@ public class SchedulerTest {
 
         int ch = System.in.read();
         Scheduler scheduler = null; // RoundRobin, LeastJob, PriorityAllocation
-                                    // 전부 Scheduler타입이니깐
-                                    // 타입을 Scheduler로 하면 된다.
+        // 전부 Scheduler타입이니깐
+        // 타입을 Scheduler로 하면 된다.
 
         if(ch == 'R' || ch == 'r') {
             scheduler = new RoundRobin();
@@ -28,6 +28,8 @@ public class SchedulerTest {
 
         scheduler.getNextCall();
         scheduler.sendCallToAgent();
+
+
 
     }
 }

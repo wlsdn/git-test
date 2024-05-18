@@ -27,5 +27,4 @@ public class Student {
         }
         System.out.println("입니다.");
     }
-
 }

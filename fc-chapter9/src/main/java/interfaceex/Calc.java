@@ -11,8 +11,8 @@ public interface Calc {
     int divide(int num1, int num2);
 
     default void description() {
-        System.out.println("정수 계산기를 구현합니다.");
-        myMethod();
+        System.out.println("정수 계산기를 구현합니다."); // Calculator나 CompleteCalc에서
+        //myMethod();                               // 오버라이딩 할 수도 있다.
     }
 
     static int total(int[] arr) {
@@ -21,18 +21,20 @@ public interface Calc {
         for(int i : arr) {
             total += i;
         }
-        mystaticMethod();
+        //mystaticMethod();
         return total;
     }
     /* static 메서드에서 일반 메소드를 호출 할 수 없다.
      * total은 인스턴스 생성하지 않고 호출할테니깐
      */
 
+    /*
     private void myMethod() { // 이거는 default 메소드에 정의하면 된다.
         System.out.println("private method");
     }
     private static void mystaticMethod() { // static으로 선언한 메소드는 static 메소드에서 쓰는 것이다.
         System.out.println("private static method");
     }
+    */
 
 }

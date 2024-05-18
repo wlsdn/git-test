@@ -31,5 +31,6 @@ public class StudentTest {
         studentLee.showStudentInfo();
         System.out.println("=======================");
         studentKim.showStudentInfo();
+
     }
 }
