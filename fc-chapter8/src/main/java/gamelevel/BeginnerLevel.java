@@ -19,4 +19,6 @@ public class BeginnerLevel extends PlayerLevel {
         System.out.println("======= 초급자 레벨입니다. =======");
     }
 
+
+
 }

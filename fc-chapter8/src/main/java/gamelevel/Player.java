@@ -1,7 +1,5 @@
 package gamelevel;
 
-import java.util.function.BiConsumer;
-
 public class Player {
 
     /* Player는 플레이어의 하나의 레벨을 가지고 있다.
@@ -36,4 +34,5 @@ public class Player {
     public void setLevel(PlayerLevel level) {
         this.level = level;
     }
+
 }
