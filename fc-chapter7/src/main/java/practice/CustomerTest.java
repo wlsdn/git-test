@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class CustomerTest {
     public static void main(String[] args) {
-
         ArrayList<Customer> customerList = new ArrayList<>();
 
         Customer customerLee = new Customer(10010, "이순신");
@@ -35,7 +34,6 @@ public class CustomerTest {
             System.out.println(cus2.getCustomerName() + "님이 " + cost + "원 지불하셨습니다.");
             System.out.println(cus2.getCustomerName() + "님의 현재 보너스 포인트는 " + cus2.bonusPoint + "점 입니다.");
         }
-
 
     }
 }

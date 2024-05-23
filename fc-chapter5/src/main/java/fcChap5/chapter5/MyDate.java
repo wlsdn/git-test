@@ -3,6 +3,7 @@ package fcChap5.chapter5;
 import java.util.Calendar;
 
 public class MyDate {
+
     /*
      *  - day, month, year 변수는 private으로 선언한다.
      *  - 각 변수의 getter, setter를 public으로 구현된다.

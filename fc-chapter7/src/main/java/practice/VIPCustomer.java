@@ -23,4 +23,5 @@ public class VIPCustomer extends Customer {
         return super.showCustomerInfo() + "담당 상담원 번호는 " + agentID + "입니다.";
     }
 
+
 }

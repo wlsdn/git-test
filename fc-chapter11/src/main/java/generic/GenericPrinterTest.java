@@ -2,6 +2,7 @@ package generic;
 
 public class GenericPrinterTest {
     public static void main(String[] args) {
+
         /* 파우더 프리터를 만든다 그러면
          * GenericPrinter 한 다음에 <> 여기다가 Powder라고 쓰면 된다.
          */
@@ -30,5 +31,6 @@ public class GenericPrinterTest {
 
         powderPrinter.printing();
         plasticPrinter.printing();
+
     }
 }

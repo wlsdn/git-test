@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="320da7c8-0fcc-4bc6-a78c-ac74b71fdd20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../mvcproject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcproject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcproject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcproject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcproject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcproject/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter11/src/main/java/collection/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter11/src/main/java/collection/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter11/src/main/java/collection/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter11/src/main/java/collection/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter11/src/main/java/collection/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter11/src/main/java/collection/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter11/src/main/java/generic/GenericPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter11/src/main/java/generic/GenericPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter11/src/main/java/generic/GenericPrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter11/src/main/java/generic/GenericPrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter11/src/main/java/generic/Plastic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter11/src/main/java/generic/Plastic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5/MyDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5/MyDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5coffee/CoffeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5coffee/CoffeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5coffee/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5coffee/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5coffee/StarCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap5/chapter5coffee/StarCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/book/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/book/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/subject/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter5/src/main/java/fcChap6/practice/subject/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/practice/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/practice/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/practice/GoldCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/practice/GoldCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter7/src/main/java/practice/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter7/src/main/java/practice/VIPCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter8/src/main/java/gamelevel/AdvancedLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter8/src/main/java/gamelevel/AdvancedLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter8/src/main/java/gamelevel/SuperLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter8/src/main/java/gamelevel/SuperLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter9/src/main/java/interfaceinheritanceextends/BookShelfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter9/src/main/java/interfaceinheritanceextends/BookShelfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fc-chapter9/src/main/java/interfaceinheritanceextends/Shelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fc-chapter9/src/main/java/interfaceinheritanceextends/Shelf.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gr0Sm7aRqC0wI9ruCQKOdXjWJ4" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="320da7c8-0fcc-4bc6-a78c-ac74b71fdd20" name="Changes" comment="" />
+      <created>1716440392904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716440392904</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -13,7 +13,7 @@ public class LinkedListTest {
         System.out.println(myList);
         myList.add(1, "D");
         System.out.println(myList);
-        myList.removeLast();
+        myList.removeLast(); // 맨 뒤에꺼 삭제
         System.out.println(myList);
 
         for(int i = 0; i < myList.size(); ++i) {

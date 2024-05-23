@@ -21,4 +21,5 @@ public class Shelf {
     public int getCount() { // 선반에 물건이 몇 개가 있느냐
         return shelf.size();
     }
+
 }

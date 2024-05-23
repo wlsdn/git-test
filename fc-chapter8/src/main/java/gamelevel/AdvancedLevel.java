@@ -19,4 +19,5 @@ public class AdvancedLevel extends PlayerLevel {
         System.out.println("======= 중급자 레벨입니다. =======");
     }
 
+
 }

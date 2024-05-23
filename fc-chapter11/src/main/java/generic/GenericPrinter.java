@@ -1,6 +1,7 @@
 package generic;
 
 public class GenericPrinter<T extends Meterial> {
+
     /* 두 개의 재료로 쓰는 프린터를 만든다고 했을 때
      * 재료가 Powder가 있을 수도 있고, Platic도 있을 수가 있는데
      * 재료를 material이라고 했을 때 이거의 타입을 뭘로 할 거냐

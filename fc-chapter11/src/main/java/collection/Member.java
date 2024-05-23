@@ -27,6 +27,6 @@ public class Member {
         this.memberName = memberName;
     }
     public String toString() {
-        return memberName + "회워님의 아이디는 " + memberId + "입니다.";
+        return memberName + "회원님의 아이디는 " + memberId + "입니다.";
     }
 }

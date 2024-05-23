@@ -16,5 +16,4 @@ public class GoldCustomer extends Customer {
         bonusPoint += price * bonusRatio;
         return price - (int)(price * salesRatio);
     }
-
 }

@@ -3,6 +3,7 @@ package collection;
 import java.util.ArrayList;
 
 class MyStack {
+
     private ArrayList<String> arrayStack = new ArrayList<>();
 
     public void push(String data) {
@@ -16,6 +17,7 @@ class MyStack {
         }
         return arrayStack.remove(len - 1);
     }
+
 }
 
 public class StackTest {
@@ -25,6 +27,8 @@ public class StackTest {
         stack.push("A");
         stack.push("B");
         stack.push("C");
+
+        // System.out.println(stack.arrayStack);
 
         System.out.println(stack.pop());
         System.out.println(stack.pop());
